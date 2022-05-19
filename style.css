@@ -49,3 +49,33 @@ body {
 
 
 }
+
+#informations {
+    color: aqua;
+    font-size: 35px;
+    padding-left: 1165px;
+    font-family: 'Gotham-Black';
+}
+
+#caracts {
+    color: rgb(86, 223, 204);
+    font-family: 'Gotham-Black';
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+#caractsReal {
+    color: rgb(255, 255, 255);
+    font-family: 'Gotham';
+    text-align: center;
+    font-size: 23px;
+}
+
+
+
+#listcarac {
+    list-style-type: none;
+    padding-left: 625px;
+
+}
